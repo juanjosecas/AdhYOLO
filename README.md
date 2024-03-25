@@ -26,7 +26,9 @@ In our study, we have utilized the following versions of the YOLO algorithm:
 
 2. **YOLOv5**: Developed by Ultralytics, YOLOv5 is a more recent and advanced iteration of the YOLO series, known for its efficiency and ease of use. [Check out the GitHub repository](https://github.com/ultralytics/yolov5).
 
-3. [Link to Roboflow]()
+3. **YOLOv8**: [Check out the GitHub repository](https://github.com/ultralytics/ultralytics)
+
+4. [Link to Roboflow]()
 
 ## Repository Structure
 This repository is organized into several key directories, each serving a specific role in our project:
